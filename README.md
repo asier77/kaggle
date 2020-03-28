@@ -1,5 +1,4 @@
-# kaggle
-Retos de Kaggle
+# Retos de kaggle
 
 Este repositorio estará dedicado a almacenar los diferentes retos de Kaggle que vaya a realizando. 
 
